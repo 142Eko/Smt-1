@@ -1,0 +1,4 @@
+Kalimat yang sudah ada di dalam file
+Jumlah kalimat ada 2
+
+Kalimat tambahan 

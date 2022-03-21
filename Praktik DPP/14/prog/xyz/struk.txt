@@ -1,0 +1,13 @@
+keju
+2x 1000						= 	2000
+========================================
+Item	kejuJumlah 2 Total									=Rp.2000
+Tunai		Rp.10000
+Kembalian	Rp.8000
+
+
+for(b=0;b<=9;b++)
+    {
+    	file.open("Gaji.txt",ios::app);
+    	file<<"Gaji ke "<<b+1<<" : "<<a[b]<<endl;
+	}

@@ -1,0 +1,47 @@
+#include <iostream>
+using namespace std;
+int main() {
+	string nama;
+	string prodi;
+	string nim;
+	string ttl;
+	string umur;
+	string jenis_kelamin;
+	string agama;
+	cout<<"Masukkan Nama : ";
+	getline(cin,nama);
+	cout<<"\n";
+	cout<<"Masukkan Prodi : ";
+	getline(cin,prodi);
+	cout<<"\n";
+	cout<<"Masukkan NIM : ";
+	getline(cin,nim);
+	cout<<"\n";
+	cout<<"Masukkan tempat lahir : ";
+	getline(cin,ttl);
+	cout<<"\n";
+	cout<<"Masukkan umur : ";
+	getline(cin,umur);
+	cout<<"\n";
+	cout<<"Masukkan Jenis Kelamin : ";
+	getline(cin,jenis_kelamin);
+	cout<<"\n";
+	cout<<"Masukkan Agama : ";
+	getline(cin,agama);
+	cout<<"\n";
+	cout<<"\t===============================\n";
+	cout<<"\t\tHalo Dahlan Muda\n";
+	cout<<"\t===============================\n";
+	cout<<"\n\n";
+	cout<<"Nama \t\t:"<<nama<<"\n";
+	cout<<"Prodi \t\t:"<<prodi<<"\n";
+	cout<<"NIM \t\t:"<<nim<<"\n";
+	cout<<"Tempat Lahir \t:"<<ttl<<"\n";
+	cout<<"Umur \t\t:"<<umur<<"\n";
+	cout<<"Jenis Kelamin \t:"<<jenis_kelamin<<"\n";
+	cout<<"Agama \t\t:"<<agama<<"\n";
+	cout<<"\n\n";
+	cout<<"Tetap semangat dan terus belajar";
+	cout<<"\n\n";
+	return 0;
+}

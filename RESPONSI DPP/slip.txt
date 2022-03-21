@@ -1,0 +1,24 @@
+Bulan ke	Pendapatan	Jumlah
+1		1		1
+Bulan ke	Pendapatan	Jumlah
+2		2		3
+Bulan ke	Pendapatan	Jumlah
+3		3		6
+Bulan ke	Pendapatan	Jumlah
+4		4		10
+Bulan ke	Pendapatan	Jumlah
+5		5		15
+Bulan ke	Pendapatan	Jumlah
+6		6		21
+Bulan ke	Pendapatan	Jumlah
+7		7		28
+Bulan ke	Pendapatan	Jumlah
+8		8		36
+Bulan ke	Pendapatan	Jumlah
+9		9		45
+Bulan ke	Pendapatan	Jumlah
+10		10		55
+Bulan ke	Pendapatan	Jumlah
+11		11		66
+Bulan ke	Pendapatan	Jumlah
+12		12		78
