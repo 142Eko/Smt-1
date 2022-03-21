@@ -1,0 +1,41 @@
+.MODEL SMALL
+.CODE
+ORG 100h
+Proses :
+   MOV AH,02h
+   MOV DL,'P'
+   INT 21h
+   MOV DL,'R'
+   INT 21h
+   MOV DL,'O'
+   INT 21h
+   MOV DL,'D'
+   INT 21h
+   MOV DL,'I'
+   INT 21h
+   MOV DL,' '
+   INT 21h
+   MOV DL,'I'
+   INT 21h
+   MOV DL,'N'
+   INT 21h
+   MOV DL,'F'
+   INT 21h
+   MOV DL,'O'
+   INT 21h
+   MOV DL,'R'
+   INT 21h
+   MOV DL,'M'
+   INT 21h
+   MOV DL,'A'
+   INT 21h
+   MOV DL,'T'
+   INT 21h
+   MOV DL,'I'
+   INT 21h
+   MOV DL,'K'
+   INT 21h
+   MOV DL,'A'
+   INT 21h
+   INT 20H
+END Proses

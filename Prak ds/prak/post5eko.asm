@@ -1,0 +1,14 @@
+.MODEL SMALL
+.CODE
+ORG 100h
+MULAI:
+   JMP CETAK
+   Post DB 'K'
+        DB '$'
+CETAK :
+   MOV AH,09H
+   MOV DX,OFFSET Post
+   INT 21h
+HABIS:
+   INT 20h
+END MULAI
